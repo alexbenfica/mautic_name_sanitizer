@@ -1,0 +1,5 @@
+
+
+mautic_name_sanitizer:
+  build: .
+  container_name: mautic_name_sanitizer

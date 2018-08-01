@@ -1,0 +1,4 @@
+config.ini
+docker-compose.override.yml
+deploy.sh
+.idea
